@@ -1,0 +1,106 @@
+
+body{
+    margin: 0;
+    text-align: center;
+    background-color: #f8f2e9;
+    font-family: 'Rubik', sans-serif;
+}
+
+h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: calc(80/16*100%);
+    padding-top: 170px;
+    color: #66BFBF;
+}
+h2{
+    color: #66BFBF;
+    font-size: 40px;
+    font-weight: 400;
+}
+h3, a{
+    color: #11999E;
+}
+.top-container{
+    position: relative;
+}
+#sub-heading{
+    line-height: 1.4;
+    font-size: calc(23/16*100%);
+    color: #66BFBF;
+}
+.mountain{
+    width: 100%;
+}
+.cloud{
+    width: 200px;
+    position: absolute;
+}
+.cloud1{
+    right: 350px;
+    top: 80px;
+}
+.cloud2{
+    left: 300px;
+    top: 200px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.web-development{
+    width: 23%;
+    float: left;
+    padding-right: 30px;
+}
+.profile img{
+    width: 18%;
+    margin: 50px auto 5px auto;
+}
+.gaming{
+    width: 25%;
+    float: right;
+    padding-left: 30px;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    margin-bottom: 0%;
+    margin-top: 50px;
+    padding: 40px 0;
+}
+.profile p{
+    width: 40%;
+    margin: 10px auto 40px auto;
+}
+hr{
+    border-top: 6px dotted rgb(129, 126, 126);
+    width: 50px;
+    margin: 80px auto;
+}
+.contact-me{
+    line-height: 2;
+}
+.contact-me p{
+    width: 50%;
+    margin: 0 auto 50px auto;
+}
+.btn{
+    text-decoration: none;
+    background-color: #11999E;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 7px;
+}
+.btn:hover{
+    background-color: #66BFBF;
+}
+.bottom-container p{
+    line-height: 4;
+    color: white;
+    font-size: smaller;
+}
+.bottom-container a{
+    text-decoration: none;
+    margin: 0 20px;
+}
